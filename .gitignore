@@ -27,5 +27,7 @@
 /nbdist/
 /.nb-gradle/
 
+/llm_service/__pycache__
+
 .vscode/
 HELP.md
